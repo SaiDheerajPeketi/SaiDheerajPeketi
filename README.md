@@ -145,6 +145,31 @@ class SaiDheeraj:
 
 ---
 
+## 🔥 What I'm Currently Working On
+
+<div align="center">
+
+| 🚧 Project | 💬 Status | 🎯 Goal |
+|:---:|:---:|:---|
+| **Just-Share** 📱 | `In Active Dev` | P2P file sharing with Kotlin & Android Jetpack |
+| **Algo_Options** 📊 | `Experimenting` | Backtesting options strategies with Python |
+| **_FlowSpace** 🌊 | `Shipped` | Personal web presence, live on GitHub Pages |
+| **ML Research** 🧠 | `Ongoing` | Applying deep learning to real-world datasets |
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
