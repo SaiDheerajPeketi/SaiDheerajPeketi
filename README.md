@@ -141,13 +141,13 @@ principle: "Automate everything you do more than twice"
 
 <div align="center">
 
-<img src="https://github-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
+<img src="https://gh-readme-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=SaiDheerajPeketi&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=SaiDheerajPeketi&theme=nord_dark" height="280" alt="Contribution Stats"/>
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html&langs_count=10" alt="Top Languages"/>
 
 </div>
 
