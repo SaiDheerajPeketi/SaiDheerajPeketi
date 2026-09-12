@@ -3,20 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sai%20Dheeraj%20Peketi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Analyst%20%40%20Oracle%20%7C%20OCI%20Compute&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7C9EFF&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Distributed+Systems;AI+%2F+ML+%7C+Quantitative+Trading;Software+Engineer+%7C+Technical+Analyst+%40+Oracle;MNNIT+Allahabad+CSE+%7C+CPI+9.09%2F10;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7C9EFF&center=true&vCenter=true&width=680&lines=Cloud+Infrastructure+%26+Distributed+Systems;AI+%2F+ML+%7C+Quantitative+Trading;Software+Engineer+%7C+Technical+Analyst+%40+Oracle;MNNIT+Allahabad+CSE+%7C+CPI+9.09%2F10;Always+building%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=SaiDheerajPeketi&style=flat-square&color=7C9EFF&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/SaiDheerajPeketi?tab=followers">
-  <img src="https://img.shields.io/github/followers/SaiDheerajPeketi?style=flat-square&color=7C9EFF&labelColor=1a1a2e&label=Followers" alt="Followers"/>
-</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaiDheerajPeketi&query=%24.followers&label=Followers&color=7C9EFF&style=flat-square&labelColor=1a1a2e" alt="Followers"/>
 &nbsp;
-<a href="https://developer.blackandblue.co.in/">
-  <img src="https://img.shields.io/badge/Portfolio-developer.blackandblue.co.in-7C9EFF?style=flat-square&labelColor=1a1a2e" alt="Portfolio"/>
-</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaiDheerajPeketi&query=%24.public_repos&label=Public+Repos&color=7C9EFF&style=flat-square&labelColor=1a1a2e" alt="Public Repos"/>
 
 </div>
 
@@ -30,6 +26,7 @@ role:       Technical Analyst @ Oracle (OCI Compute)
 education:  B.Tech Computer Science, MNNIT Allahabad — CPI 9.09 / 10
 location:   India
 website:    https://developer.blackandblue.co.in
+email:      saidheerajpeketi@gmail.com
 
 focus:
   - Cloud Infrastructure & Compute (Oracle OCI)
@@ -55,7 +52,7 @@ principle: "Automate everything you do more than twice"
 | DevOps | CI/CD, containerization, infrastructure as code, cloud-native deployments |
 | Blockchain | Hyperledger Fabric, smart contracts, distributed ledger systems |
 | Data Engineering | Data pipelines, ETL, analysis, visualization |
-| Embedded & IoT | Raspberry Pi, Arduino, low-level systems |
+| Embedded & IoT | Raspberry Pi, Arduino, low-level systems programming |
 
 ---
 
@@ -89,7 +86,6 @@ principle: "Automate everything you do more than twice"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -99,7 +95,6 @@ principle: "Automate everything you do more than twice"
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -146,33 +141,13 @@ principle: "Automate everything you do more than twice"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img src="https://github-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=SaiDheerajPeketi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=SaiDheerajPeketi&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheerajPeketi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaiDheerajPeketi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+<img src="https://github-contribution-stats.vercel.app/api/?username=SaiDheerajPeketi&theme=nord_dark" height="280" alt="Contribution Stats"/>
 
 </div>
 
@@ -183,7 +158,9 @@ principle: "Automate everything you do more than twice"
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-developer.blackandblue.co.in-7C9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.blackandblue.co.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidheerajpeketi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peketisaidheeraj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sai_dheeraj_peketi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidheerajpeketi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDheerajPeketi)
 
 </div>
@@ -191,8 +168,6 @@ principle: "Automate everything you do more than twice"
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SaiDheerajPeketi/SaiDheerajPeketi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
