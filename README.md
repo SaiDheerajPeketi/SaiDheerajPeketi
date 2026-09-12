@@ -1,182 +1,190 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sai%20Dheeraj%20Peketi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20things%20that%20matter%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sai%20Dheeraj%20Peketi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Analyst%20%40%20Oracle%20%7C%20OCI%20Compute&descSize=16&descAlignY=58&descColor=aaaacc" width="100%"/>
 
-<!-- Dynamic Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Developer+%F0%9F%93%B1;AI+%2F+ML+Engineer+%F0%9F%A4%96;Algo+Trader+%F0%9F%93%88;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+building%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7C9EFF&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Distributed+Systems;AI+%2F+ML+%7C+Quantitative+Trading;Software+Engineer+%7C+Technical+Analyst+%40+Oracle;MNNIT+Allahabad+CSE+%7C+CPI+9.09%2F10;Always+building%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=SaiDheerajPeketi&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SaiDheerajPeketi&style=flat-square&color=7C9EFF&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/SaiDheerajPeketi?tab=followers">
-  <img src="https://img.shields.io/github/followers/SaiDheerajPeketi?style=for-the-badge&color=0969da&labelColor=black" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/SaiDheerajPeketi?style=flat-square&color=7C9EFF&labelColor=1a1a2e&label=Followers" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://developer.blackandblue.co.in/">
+  <img src="https://img.shields.io/badge/Portfolio-developer.blackandblue.co.in-7C9EFF?style=flat-square&labelColor=1a1a2e" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```python
-class SaiDheeraj:
-    name        = "Sai Dheeraj Peketi"
-    location    = "India 🇮🇳"
-    passions    = ["Android Dev", "AI/ML", "Algo Trading", "Cloud & DevOps"]
-    languages   = ["Python", "Kotlin", "C++", "Rust", "Java", "JavaScript"]
-    currently   = "Building Just-Share & exploring quantitative finance 📈"
-    fun_fact    = "I automate everything I have to do more than twice 🤖"
+```yaml
+name:       Sai Dheeraj Peketi
+role:       Technical Analyst @ Oracle (OCI Compute)
+education:  B.Tech Computer Science, MNNIT Allahabad — CPI 9.09 / 10
+location:   India
+website:    https://developer.blackandblue.co.in
+
+focus:
+  - Cloud Infrastructure & Compute (Oracle OCI)
+  - Distributed Systems & System Design
+  - AI / ML & Deep Learning
+  - Algorithmic & Quantitative Trading
+  - DevOps, CI/CD & Container Orchestration
+  - Blockchain & Hyperledger Fabric
+
+principle: "Automate everything you do more than twice"
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Roles & Capabilities
 
-<div align="center">
-
-| 🏆 Project | 🛠️ Tech | 💡 What it does | 📊 Stats |
-|:---:|:---:|:---|:---:|
-| [**Just-Share** 📱](https://github.com/SaiDheerajPeketi/Just-Share) | `Kotlin` `Android` | Peer-to-peer file sharing Android app | ⭐ 0 · 🍴 6 |
-| [**Algo Options** 📈](https://github.com/SaiDheerajPeketi/Algo_Options) | `Python` | Algorithmic options trading strategies | ⭐ 0 · 🔥 Active |
-| [**Stock Trading Notifier** 🤖](https://github.com/SaiDheerajPeketi/Automated_Stock_Trading_Notifier) | `Python` `Jupyter` | Automated stock signals & alerts | ⭐ 1 · 💹 Live |
-| [**Major Project Sem 8** 🎓](https://github.com/SaiDheerajPeketi/Major-Project-Sem-8) | `Jupyter` `ML` | Final year ML research project | 🧪 Research |
-| [**TBS TV Clone** 🎬](https://github.com/SaiDheerajPeketi/TBS-TV-Clone) | `JavaScript` | Full-featured TV streaming UI clone | 🎨 Frontend |
-| [**OCI DevOps CI/CD** ☁️](https://github.com/SaiDheerajPeketi/oci-arch-devops-cicd-with-functions) | `HCL` `Terraform` | Oracle Cloud CI/CD with Functions | 🏗️ Infra |
-| [**FlowSpace** 🌊](https://saidheerajpeketi.github.io/_FlowSpace/) | `GitHub Pages` | Live deployed web project | 🌐 Live |
-
-</div>
+| Domain | Skills |
+|---|---|
+| Cloud & Infrastructure | OCI Compute, Kubernetes, Helm, Terraform, Docker, Nginx, CI/CD Pipelines |
+| Software Engineering | System design, distributed systems, microservices, REST APIs |
+| AI / ML | Deep learning, computer vision, NLP, model training & evaluation |
+| Quantitative Finance | Algorithmic trading, options strategies, backtesting, automated signals |
+| DevOps | CI/CD, containerization, infrastructure as code, cloud-native deployments |
+| Blockchain | Hyperledger Fabric, smart contracts, distributed ledger systems |
+| Data Engineering | Data pipelines, ETL, analysis, visualization |
+| Embedded & IoT | Raspberry Pi, Arduino, low-level systems |
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### 🤖 AI / Machine Learning
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+| Project | Tech | Description |
+|---|---|---|
+| [Just-Share](https://github.com/SaiDheerajPeketi/Just-Share) | `Kotlin` | Peer-to-peer file sharing application — 6 forks |
+| [Algo Options](https://github.com/SaiDheerajPeketi/Algo_Options) | `Python` | Algorithmic options trading strategies & analysis |
+| [Stock Trading Notifier](https://github.com/SaiDheerajPeketi/Automated_Stock_Trading_Notifier) | `Python` `Jupyter` | Automated stock signal detection and alerts |
+| [TBS TV Clone](https://github.com/SaiDheerajPeketi/TBS-TV-Clone) | `JavaScript` | Full-featured streaming platform UI |
+| [OCI DevOps CI/CD](https://github.com/SaiDheerajPeketi/oci-arch-devops-cicd-with-functions) | `HCL` `Terraform` | Oracle Cloud CI/CD pipeline with serverless functions |
+| [OCI Helm Node Service](https://github.com/SaiDheerajPeketi/oci-helm-node-service) | `JavaScript` `Helm` | Node.js deployment to OKE via Helm Charts |
+| [FlowSpace](https://saidheerajpeketi.github.io/_FlowSpace/) | `Web` | Live deployed personal web project |
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**AI / Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Cloud & DevOps**
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🖥️ Operating Systems
+**Operating Systems**
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheerajPeketi&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=SaiDheerajPeketi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheerajPeketi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html&langs_count=10" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaiDheerajPeketi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheerajPeketi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheerajPeketi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaiDheerajPeketi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🔥 What I'm Currently Working On
+## Connect
 
 <div align="center">
 
-| 🚧 Project | 💬 Status | 🎯 Goal |
-|:---:|:---:|:---|
-| **Just-Share** 📱 | `In Active Dev` | P2P file sharing with Kotlin & Android Jetpack |
-| **Algo_Options** 📊 | `Experimenting` | Backtesting options strategies with Python |
-| **_FlowSpace** 🌊 | `Shipped` | Personal web presence, live on GitHub Pages |
-| **ML Research** 🧠 | `Ongoing` | Applying deep learning to real-world datasets |
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidheerajpeketi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDheerajPeketi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://saidheerajpeketi.github.io/_FlowSpace/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-developer.blackandblue.co.in-7C9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.blackandblue.co.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidheerajpeketi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDheerajPeketi)
 
 </div>
 
@@ -184,11 +192,8 @@ class SaiDheeraj:
 
 <div align="center">
 
-<!-- Snake Game Contribution -->
-<img src="https://raw.githubusercontent.com/SaiDheerajPeketi/SaiDheerajPeketi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/SaiDheerajPeketi/SaiDheerajPeketi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
