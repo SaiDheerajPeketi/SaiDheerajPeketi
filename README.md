@@ -10,10 +10,19 @@ I work across cloud infrastructure, distributed systems, and automation. My proj
 
 ---
 
-## Selected work
+## Built to be useful
 
 ### [Just-Share](https://github.com/SaiDheerajPeketi/Just-Share)
 Peer-to-peer file sharing for Android. **Kotlin**
+
+<p align="center">
+  <a href="https://github.com/SaiDheerajPeketi/Just-Share"><img src="assets/just-share-intro.png" width="260" alt="Just Share Android app: files go straight to the other phone"></a>
+  <a href="https://github.com/SaiDheerajPeketi/Just-Share"><img src="assets/just-share-transfer.png" width="260" alt="Just Share Android app: sending, receiving, and encrypted remote transfers"></a>
+</p>
+
+**[Explore the source](https://github.com/SaiDheerajPeketi/Just-Share)**
+
+## Systems, research & everyday tools
 
 ### [Algo Options](https://github.com/SaiDheerajPeketi/Algo_Options)
 Algorithmic options trading strategies and analysis. **Python**
@@ -62,6 +71,15 @@ Android launcher, focus timer, app limits, and device automation. **Android** ·
 - **Education:** B.Tech in Computer Science, MNNIT Allahabad · CPI **9.09 / 10**.
 - **Based in:** India.
 - **Working principle:** “Automate everything you do more than twice.”
+
+## Open source activity
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/activity-mobile.svg">
+  <img src="assets/activity.svg" width="100%" alt="Public GitHub activity and primary languages across public repositories; forks excluded from language counts">
+</picture>
+
+Generated daily from public GitHub data. [View recent contributions](https://github.com/SaiDheerajPeketi#js-contribution-activity-description).
 
 ## Explore & connect
 
