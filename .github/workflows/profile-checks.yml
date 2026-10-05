@@ -1,0 +1,33 @@
+name: Validate profile
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Test public activity generation
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Validate profile assets
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import xml.etree.ElementTree as ET
+          readme = Path('README.md').read_text()
+          for asset in re.findall(r'(?:src|srcset)="([^"]+)"', readme):
+              if not asset.startswith(('https://', 'http://')):
+                  assert Path(asset).is_file(), f'Missing profile asset: {asset}'
+          for asset in Path('assets').glob('*.svg'):
+              root = ET.parse(asset).getroot()
+              assert root.tag == '{http://www.w3.org/2000/svg}svg', f'Invalid SVG: {asset}'
+          print('All profile image references and SVGs are valid.')
+          PY
