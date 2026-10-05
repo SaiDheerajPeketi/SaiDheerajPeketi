@@ -66,7 +66,7 @@ principle: "Automate everything you do more than twice"
 | [TBS TV Clone](https://github.com/SaiDheerajPeketi/TBS-TV-Clone) | `JavaScript` | Full-featured streaming platform UI |
 | [OCI DevOps CI/CD](https://github.com/SaiDheerajPeketi/oci-arch-devops-cicd-with-functions) | `HCL` `Terraform` | Oracle Cloud CI/CD pipeline with serverless functions |
 | [OCI Helm Node Service](https://github.com/SaiDheerajPeketi/oci-helm-node-service) | `JavaScript` `Helm` | Node.js deployment to OKE via Helm Charts |
-| [FlowSpace](https://saidheerajpeketi.github.io/_FlowSpace/) | `Web` | Live deployed personal web project |
+| [FlowSpace](https://flowspace.blackandblue.co.in/) | `Android` | Android launcher, focus timer, app limits & device automation |
 
 ---
 
