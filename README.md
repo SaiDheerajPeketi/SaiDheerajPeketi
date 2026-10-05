@@ -74,10 +74,9 @@ Android launcher, focus timer, app limits, and device automation. **Android** ·
 
 ## Open source activity
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/activity-mobile.svg">
-  <img src="assets/activity.svg" width="100%" alt="Public GitHub activity and primary languages across public repositories; forks excluded from language counts">
-</picture>
+<p align="center">
+  <img src="assets/activity.svg" width="480" alt="Public GitHub activity and primary languages across public repositories; forks excluded from language counts">
+</p>
 
 Generated daily from public GitHub data. [View recent contributions](https://github.com/SaiDheerajPeketi#js-contribution-activity-description).
 

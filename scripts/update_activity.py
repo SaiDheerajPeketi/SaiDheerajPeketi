@@ -82,7 +82,7 @@ def render(data, date, mobile=False):
 def update(output, fetch=request_json):
     data = collect(fetch)  # Fetch all data before touching the last successful assets.
     date = datetime.now(timezone.utc).date().isoformat()
-    graphics = {"activity.svg": render(data, date), "activity-mobile.svg": render(data, date, True)}
+    graphics = {"activity.svg": render(data, date, True)}
     output = Path(output)
     output.mkdir(parents=True, exist_ok=True)
     for name, graphic in graphics.items():
