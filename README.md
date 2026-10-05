@@ -65,6 +65,6 @@ Android launcher, focus timer, app limits, and device automation. **Android** ·
 
 ## Explore & connect
 
-[Browse my repositories](https://github.com/SaiDheerajPeketi?tab=repositories) · [GitHub activity](https://github.com/SaiDheerajPeketi#contributions) · [Achievements](https://github.com/SaiDheerajPeketi?tab=achievements)
+[Browse my repositories](https://github.com/SaiDheerajPeketi?tab=repositories) · [GitHub activity](https://github.com/SaiDheerajPeketi#js-contribution-activity-description) · [Achievements](https://github.com/SaiDheerajPeketi?tab=achievements)
 
 For more about my work, visit **[developer.blackandblue.co.in](https://developer.blackandblue.co.in/)** or reach me at **[saidheerajpeketi@gmail.com](mailto:saidheerajpeketi@gmail.com)**.
